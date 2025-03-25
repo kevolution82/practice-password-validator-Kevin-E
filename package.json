@@ -1,0 +1,20 @@
+{
+  "name": "practice-password-validator-kevin-e",
+  "version": "1.0.0",
+  "description": "practice-password-validator-Kevin-E",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevolution82/practice-password-validator-Kevin-E.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevolution82/practice-password-validator-Kevin-E/issues"
+  },
+  "homepage": "https://github.com/kevolution82/practice-password-validator-Kevin-E#readme"
+}
